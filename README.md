@@ -12,4 +12,4 @@ Running the .exe opens a simple GUI.
 
 ## Building
 If you want to build this yourself, I used Visual Studio.
-The program relies in GhostScript for compression, so download the Win64 version and put the folder in the directory where the output files are, as can be seen in the release.
+The program relies in GhostScript for compression, so download the Win64 version and put the gs9.54.0 folder from \Program Files in the directory where the output files are, as can be seen in the release. (I know, it's not very clean.)
